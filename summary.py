@@ -20,13 +20,12 @@ LINE_LENGTH_THRESHOLD = 180
 # It is very important to add spaces on these words.
 # Otherwise it will take into account partial words.
 COMMON_WORDS = [
-    ",", "|", "-", "‘", "’", ";", "(", ")", ".", ":", "¿", "?", '“', '”', '"', "'", "•",
-    " Un ", " Una ", " El ", " La ", " Los ", " Las ", " Y ", " A ", " O ", " Si ", " No ", " Su ",
-    " En ", " Foto ", " Video ", " De ", " Va ", " Como ", " Cuando ", " Que ", " Por ", " Ser ",
-    " Para ", " Sus ", " Más ", " Del ", " Es ", " Al ", " Lo ", " Le ", " Les ", " Con ", " Sino ",
-    " Son ", " Se ", " Redacción ", " Pero ", " Cual ", " Esto ", " Uno ", " Dos ", " Tres ", " Donde ",
-    " Cuatro ", " Cinco ", " Seis ", " Siete ", " Ocho ", " Nueve ", " Diez ", " Cien ", " Mil "
-    " Miles ", " Cientos ", " Millones "
+   ",","|","-","‘","’",";","(",")",".",":","¿","?", '“', '”', '"',"'","•",
+   "A","An","The","Yes","No","In","Photo","Video","From","Go","Who","Why","How", 
+   "When","What","Where","For","To be","For","Your","More","It","With","But",
+   "Son","Writing","What","This","One","Two","Three", "Four","Five","Six",
+    "Seven","Eight","Nine","Ten","Thousand","Miles","Hundreds","Millions",
+    "Thousands","Cents","Dollars"
 ]
 
 
